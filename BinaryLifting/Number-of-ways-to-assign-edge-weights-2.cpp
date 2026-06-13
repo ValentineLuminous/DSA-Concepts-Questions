@@ -21,7 +21,7 @@ This Question is really a good qustion it will teach you a lot of concepts like
   ---------------------------------------------------------
 
   Finding LCA - : 
-  FInding Kth Ancestor & Binary Lifting - :
+  FInding Kth Ancestor & Binary Lifting - : https://github.com/ValentineLuminous/DSA-Concepts-Questions/blob/main/BinaryLifting/Finding-Kth-Ancestor.cpp
 
 */
 
